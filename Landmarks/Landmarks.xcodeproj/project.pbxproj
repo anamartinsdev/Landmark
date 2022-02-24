@@ -21,6 +21,7 @@
 		A73FD59827C6FFC500626E59 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A73FD59727C6FFC500626E59 /* ModelData.swift */; };
 		A73FD59D27C717C100626E59 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = A73FD59C27C717C100626E59 /* LandmarkRow.swift */; };
 		A73FD59F27C71BFC00626E59 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A73FD59E27C71BFC00626E59 /* LandmarkList.swift */; };
+		A73FD5A127C808C900626E59 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = A73FD5A027C808C900626E59 /* LandmarkDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,7 @@
 		A73FD59727C6FFC500626E59 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		A73FD59C27C717C100626E59 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 		A73FD59E27C71BFC00626E59 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		A73FD5A027C808C900626E59 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +153,7 @@
 				A73FD59127C6F75B00626E59 /* MapView.swift */,
 				A73FD56727C6F1C300626E59 /* ContentView.swift */,
 				A73FD59E27C71BFC00626E59 /* LandmarkList.swift */,
+				A73FD5A027C808C900626E59 /* LandmarkDetail.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -307,6 +310,7 @@
 				A73FD59227C6F75B00626E59 /* MapView.swift in Sources */,
 				A73FD56627C6F1C300626E59 /* LandmarksApp.swift in Sources */,
 				A73FD59F27C71BFC00626E59 /* LandmarkList.swift in Sources */,
+				A73FD5A127C808C900626E59 /* LandmarkDetail.swift in Sources */,
 				A73FD59027C6F57C00626E59 /* CircleImage.swift in Sources */,
 				A73FD59627C6FE1C00626E59 /* Landmark.swift in Sources */,
 				A73FD59D27C717C100626E59 /* LandmarkRow.swift in Sources */,
